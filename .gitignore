@@ -1,0 +1,11 @@
+# Compiled stuff
+bin/
+build/
+dist/
+
+# Other eclipse files
+.classpath
+
+# Editor files
+*.swp
+*~
